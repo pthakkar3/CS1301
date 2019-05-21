@@ -1,4 +1,4 @@
-#Pranshav Thakkar 903079725
+#Pranshav Thakkar 
 #pthakkar7@gatech.edu
 #My partner, Chikanma Okonkwo, and I worked on this assignment alone, using only this semester's course materials.
 
