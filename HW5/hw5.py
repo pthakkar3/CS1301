@@ -1,4 +1,4 @@
-#Pranshav Thakkar 903079725
+#Pranshav Thakkar 
 #pthakkar7@gatech.edu
 # My partner, Chika Okonkwo, and I worked on this assignment alone and used only this semester's course materials.
 from Myro import *
