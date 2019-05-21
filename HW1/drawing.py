@@ -1,6 +1,6 @@
 #Pranshav Thakkar
 #CS1301 Section A
-#GTID: 903079725 , pthakkar7@gatech.edu
+# pthakkar7@gatech.edu
 # I worked on this assignment alone, using only this semester's course resources.
 
 from Graphics import *
