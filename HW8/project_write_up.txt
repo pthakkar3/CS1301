@@ -1,0 +1,5 @@
+Our Charibot is searching through the grass in the Pokemon world. It turns to it's left and then suddenly a wild Robochu appears! Our Charibot uses fire blast! The wild Robuchu then faints.
+
+The first effect that we used is splitscreen. We made it so that half of the screen is a picture of pikachu and the other half of the screen continues playing the part of the movie where the Robochu appears. The next effect that we use is the seeing red effect for the Pokemon fire blast attack. THe third and final effect that we used is fade. We used fade so that the video fades to black at the end of the movie.
+
+The only deviation that we made is that we combined actingCode.py and filmingCode.py into one file named actingFilmingCode.py. We did this because both our filming and our acting were done at the same time with only one robot moving by itself.

@@ -1,0 +1,16 @@
+#Pranshav Thakkar 903079725
+#pthakkar7@gatech.edu
+# My partners, Alex Dunford, Kevin Kreulen, and I worked on this assignment alone and used only this semester's course materials and resources.
+
+Group Members: 
+	1. Alex Dunford 
+	2. Kevin Kreulen
+	3. Pranshav Thakkar
+
+I did the Acting and Filming code and coordination and Kevin helped a lot with the Editing code, with insights from Alex. Alex did the video editing and cleaned up the video.
+Overall, it was a very cohesive effort and we all had fun. 
+
+Contributions:
+	Alex = 33.3%
+	Kevin = 33.3%
+	Me = 33.3%
