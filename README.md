@@ -1,5 +1,5 @@
 # CS1301
-Intro to Computing
+Intro to Computing class at Georgia Tech
 
 Assignments were in Python, using Calico
 
